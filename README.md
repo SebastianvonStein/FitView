@@ -1,4 +1,4 @@
-#FitView
+# FitView
 By Konstantin Freiherr Freiherr von Stein
 
 This project uses Swift, Vision, CoreML Frameworks to processes live video feed to track human body poses in 3D space, analyze specific exercise movements such as sit-ups, push-ups and squats. 
